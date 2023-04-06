@@ -1,1 +1,1 @@
-# Lab 02
+# Symmetic and asymmetric cryptography
